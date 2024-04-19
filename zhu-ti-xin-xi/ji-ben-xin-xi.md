@@ -18,7 +18,7 @@ version: 1.5.0-alpha.2
 require: 1.0.5
 ```
 
-使用yaml语法进行定义
+**使用yaml语法进行定义**
 
 * id: 对应图中的`主题标识`，用于识别不同的主题
 * name: 即主题名称
@@ -31,6 +31,3 @@ require: 1.0.5
 * repo: 主题仓库，对应图中`Git仓库`
 * version: 主题版本，对应图中`当前版本`
 * require: 主题所需的sonic版本
-
-
-

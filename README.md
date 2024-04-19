@@ -4,7 +4,7 @@
 
 [sonic](https://github.com/go-sonic/sonic)主题开发主要使用golang的模板渲染引擎，因此需要具有对golang模板解析[基本语法](https://pkg.go.dev/html/template)的了解，以及必备的一定前端基础后，再开始我们的主题开发。
 
-
+## 目录结构
 
 主题所需文件的目录结构大致如下：
 
