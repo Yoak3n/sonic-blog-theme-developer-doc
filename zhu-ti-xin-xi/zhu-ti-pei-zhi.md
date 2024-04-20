@@ -1,8 +1,8 @@
 # 主题配置
 
-在主题根目录的`setting.yaml`或`setting.yml`中定义主题的设置项
+在主题根目录的`settings.yaml`或`settings.yml`中定义主题的设置项
 
-参考[sonic默认主题的setting.yaml](https://github.com/go-sonic/default-theme-anatole/blob/master/settings.yaml)展示于`主题设置>关于`之后的标签页
+参考[sonic默认主题的settings.yaml](https://github.com/go-sonic/default-theme-anatole/blob/master/settings.yaml)展示于`主题设置>关于`之后的标签页
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

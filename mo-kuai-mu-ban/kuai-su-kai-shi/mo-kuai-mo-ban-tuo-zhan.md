@@ -12,14 +12,14 @@ description: >-
 与必要页面的模板文件相同，都需要在html文本外包裹一个模板定义语法
 
 ```
-{{- define "主题名/模板文件在主题目录中的相对路径（不需要.tmpl）" -}}
+{{- define "caicai_anatole/module/sidebar" -}}
 ...中间的html文本
 {{end}}
 ```
 
 ### 调用模块模板
 
-在其他模板文件中使用`template`关键字调用，如sonic默认主题index文件中[调用sider模板](https://github.com/go-sonic/default-theme-anatole/blob/master/journals.tmpl#L26)
+在其他模板文件中使用`template`关键字调用，如sonic默认主题index文件中[调用sider模](https://github.com/go-sonic/default-theme-anatole/blob/master/journals.tmpl#L26)块
 
 ```
 {{template "caicai_anatole/module/sidebar" .}}

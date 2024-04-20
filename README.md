@@ -1,4 +1,4 @@
-# sonic主题开发文档
+# sonic主题开发者文档
 
 ## 前言
 
@@ -17,8 +17,8 @@
 </strong>|--post.tmpl --> 单个文章页面
 |--search.tmpl --> 博客搜索结果页面
 |--sheet.tmpl --> 博客关于页面
-<strong>|--tag.tmpl --> 文章标签目录页面
-</strong>|--tags.tmpl --> 单个文章标签页面
+<strong>|--tags.tmpl --> 文章标签目录页面
+</strong>|--tag.tmpl --> 单个文章标签页面
 (以上tmpl模板文件为博客主题必要的文件,对应sonic默认存在的页面)
 |--screenshot.png --> 主题预览图  
 |--README.md --> 主题的说明文档  

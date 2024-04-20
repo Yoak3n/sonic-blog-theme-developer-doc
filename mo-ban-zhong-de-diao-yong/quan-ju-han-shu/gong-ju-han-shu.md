@@ -28,8 +28,9 @@ func rainbowPage(page, total, display int) []int
 
 ## **random**
 
-<pre class="language-go"><code class="lang-go"><strong>func random(min, max int) int
-</strong></code></pre>
+```go
+func random(min, max int) int
+```
 
 随机数生成，返回一个范围是\[min,max)的随机数
 
