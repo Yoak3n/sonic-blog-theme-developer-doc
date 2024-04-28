@@ -1,4 +1,4 @@
-# 主题设置
+# 主题属性
 
 ## **theme\_base**
 
@@ -21,5 +21,5 @@
 `settings.yaml`中的[设置项](../../zhu-ti-xin-xi/zhu-ti-pei-zhi.md#she-zhi-xiang)就是settings的属性，如获取[默认主题配置](https://github.com/go-sonic/default-theme-anatole/blob/master/settings.yaml)中侧边栏宽度：
 
 ```
-{{.setting.sidebar_width}}
+{{.settings.sidebar_width}}
 ```

@@ -1,6 +1,6 @@
 # 局部变量
 
-一部分随网页请求而变化的动态数据依靠模板渲染的model来传递，与[数据函数](quan-ju-han-shu/shu-ju-han-shu.md)类似，只不过仅在对应页面生效
+一部分随网页请求而变化的动态数据依靠模板渲染的model来传递，与[全局变量](quan-ju-bian-liang/)类似，只不过仅在对应页面生效
 
 在`github.com/go-sonic/sonic/handler/content/model`目录下的文件中查看——`Render`方法的第二个参数即页面的名称，同函数下的model所拥有的字段即对应页面的可用值
 
@@ -17,7 +17,7 @@ func (l *LinkModel) Links(ctx context.Context, model template.Model) (string, er
 
 表示`links`（友情链接）页面中有`is_links,meta_keywords`和`meta_description`三个字段的值
 
-在`links`（友情链接）页面中即可使用`{{.is_links}}`来判断是否在`links`页面中（听起来是个很傻的功能）
+在`links`（友情链接）页面中即可使用`{{.is_links}}`来判断是否在`links`页面中（听起来是个很傻的功能，但应该有用吧）
 
 ***
 
