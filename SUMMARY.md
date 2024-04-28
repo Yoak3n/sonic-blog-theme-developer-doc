@@ -17,9 +17,12 @@
 
 * [全局变量](mo-ban-zhong-de-diao-yong/quan-ju-bian-liang/README.md)
   * [博客元数据](mo-ban-zhong-de-diao-yong/quan-ju-bian-liang/bo-ke-yuan-shu-ju.md)
-  * [主题设置](mo-ban-zhong-de-diao-yong/quan-ju-bian-liang/zhu-ti-she-zhi.md)
+  * [主题属性](mo-ban-zhong-de-diao-yong/quan-ju-bian-liang/zhu-ti-shu-xing.md)
 * [全局函数](mo-ban-zhong-de-diao-yong/quan-ju-han-shu/README.md)
   * [工具函数](mo-ban-zhong-de-diao-yong/quan-ju-han-shu/gong-ju-han-shu.md)
   * [数据函数](mo-ban-zhong-de-diao-yong/quan-ju-han-shu/shu-ju-han-shu.md)
-* [局部变量](mo-ban-zhong-de-diao-yong/ju-bu-bian-liang/README.md)
-  * [Page 2](mo-ban-zhong-de-diao-yong/ju-bu-bian-liang/page-2.md)
+* [局部变量](mo-ban-zhong-de-diao-yong/ju-bu-bian-liang.md)
+
+## 🖖 在模板之外
+
+* [http请求](zai-mo-ban-zhi-wai/http-qing-qiu.md)

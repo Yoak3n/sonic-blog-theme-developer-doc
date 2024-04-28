@@ -2,7 +2,7 @@
 
 ## 前言
 
-[sonic](https://github.com/go-sonic/sonic)主题开发主要使用golang的模板渲染引擎，因此需要具有对golang模板解析[基本语法](https://pkg.go.dev/html/template)的了解，以及必备的一定前端基础后，再开始我们的主题开发。
+[sonic](https://github.com/go-sonic/sonic)主题主要使用golang的模板渲染引擎将tmpl文件渲染为前端html、js和css文件，因此需要具有对golang模板解析[基本语法](https://pkg.go.dev/html/template)的了解，以及必备的一定前端基础后，再开始我们的主题开发。
 
 ## 目录结构
 
@@ -32,3 +32,4 @@
       |--style.tmpl --> 样式模块模板  
       |--...  
 </code></pre>
+

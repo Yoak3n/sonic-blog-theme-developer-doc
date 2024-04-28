@@ -2,7 +2,7 @@
 
 在主题根目录的`theme.yaml`或`theme.yml`中设置我们主题的基本信息，将会在`主题设置>关于`页面展示出来
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ```yaml
 id: caicai_anatole
@@ -34,3 +34,13 @@ require: 1.0.5
 * branch：如从分支更新，指定所在主题仓库的分支
 * version: 主题版本，对应图中`当前版本`
 * require: 主题所需的sonic版本
+
+
+
+<details>
+
+<summary>如何使用主题基本信息中的值？</summary>
+
+查看模板调用全局变量[主题信息](../mo-ban-zhong-de-diao-yong/quan-ju-bian-liang/zhu-ti-shu-xing.md#theme)的部分
+
+</details>
