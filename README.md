@@ -2,7 +2,11 @@
 
 ## 前言
 
-[sonic](https://github.com/go-sonic/sonic)主题主要使用golang的模板渲染引擎将tmpl文件渲染为前端html、js和css文件，因此需要具有对golang模板解析[基本语法](https://pkg.go.dev/html/template)的了解，以及必备的一定前端基础后，再开始我们的主题开发。
+[sonic](https://github.com/go-sonic/sonic)主题主要原理是使用golang的模板渲染引擎将tmpl文件渲染为前端html、js和css文件，因此需要具有对golang模板解析[基本语法](https://pkg.go.dev/html/template)的了解，以及必备的一定前端基础后，再开始我们的主题开发。
+
+## 预览
+
+[GitBook分享页面](https://3354590676s-organization.gitbook.io/sonic-blog-theme-developer-doc/)(需科学上网)
 
 ## 目录结构
 

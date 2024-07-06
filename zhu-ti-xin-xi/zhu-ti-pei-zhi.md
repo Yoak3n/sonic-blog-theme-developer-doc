@@ -69,7 +69,7 @@ items的子项(如上面的`sidebar_width`，是可自定义字段)，标识一�
 
 #### placeholder
 
-当设置项的类型为text或textarea是，设置文本输入框的占位文字
+当设置项的类型为text或textarea时，设置文本输入框的占位文字
 
 #### options
 
